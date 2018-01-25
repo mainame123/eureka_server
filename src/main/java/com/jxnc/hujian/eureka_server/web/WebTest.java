@@ -3,7 +3,7 @@ package com.jxnc.hujian.eureka_server.web;
 /**
  * 
  * @author Administrator
- *   test three
+ *  branch 提交
  */
 public class WebTest {
 
